@@ -7,7 +7,7 @@ header {
   background-image: url("./img/header.png");
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 110vh;
   display: flex;
   justify-content: center;
   align-items: center;
